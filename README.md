@@ -1,4 +1,4 @@
-# FoodDrops_Bot
+# FoodDrops Discord Bot
 
 ## 🛠️ Deliverables
  - 
